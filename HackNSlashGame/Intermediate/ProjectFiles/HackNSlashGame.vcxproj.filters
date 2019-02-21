@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HackNSlashGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4B45F951-09DA-47F0-847B-0636EE3653BA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HackNSlashGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HackNSlashGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{78770D16-78FD-4028-84B6-FECEAE4F07AC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HackNSlashGame">
+      <UniqueIdentifier>{DBE1DC8E-9D43-44A4-8032-626768EACCF9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HackNSlashGame\HackNSlashGame.Build.cs">
+      <Filter>Source\HackNSlashGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HackNSlashGame\HackNSlashGame.cpp">
+      <Filter>Source\HackNSlashGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HackNSlashGame\HackNSlashGame.h">
+      <Filter>Source\HackNSlashGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HackNSlashGame\HackNSlashGameCharacter.cpp">
+      <Filter>Source\HackNSlashGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HackNSlashGame\HackNSlashGameCharacter.h">
+      <Filter>Source\HackNSlashGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HackNSlashGame\HackNSlashGameGameMode.cpp">
+      <Filter>Source\HackNSlashGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HackNSlashGame\HackNSlashGameGameMode.h">
+      <Filter>Source\HackNSlashGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

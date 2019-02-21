@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-HackNSlashGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Game Productions\HackNSlashGame\HackNSlashGame\Intermediate\Build\Win64\HackNSlashGameEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Game Productions\HackNSlashGame\HackNSlashGame\Intermediate\Build\Win64\UE4Editor\Development\HackNSlashGame\HackNSlashGame.cpp.obj"
+"D:\Game Productions\HackNSlashGame\HackNSlashGame\Intermediate\Build\Win64\UE4Editor\Development\HackNSlashGame\HackNSlashGameCharacter.cpp.obj"
+"D:\Game Productions\HackNSlashGame\HackNSlashGame\Intermediate\Build\Win64\UE4Editor\Development\HackNSlashGame\HackNSlashGameGameMode.cpp.obj"
+"D:\Game Productions\HackNSlashGame\HackNSlashGame\Intermediate\Build\Win64\UE4Editor\Development\HackNSlashGame\HackNSlashGame.init.gen.cpp.obj"
+"D:\Game Productions\HackNSlashGame\HackNSlashGame\Intermediate\Build\Win64\UE4Editor\Development\HackNSlashGame\HackNSlashGameCharacter.gen.cpp.obj"
+"D:\Game Productions\HackNSlashGame\HackNSlashGame\Intermediate\Build\Win64\UE4Editor\Development\HackNSlashGame\HackNSlashGameGameMode.gen.cpp.obj"
+"D:\Game Productions\HackNSlashGame\HackNSlashGame\Intermediate\Build\Win64\UE4Editor\Development\HackNSlashGame\PCLaunch.rc.res"
+/OUT:"D:\Game Productions\HackNSlashGame\HackNSlashGame\Intermediate\Build\Win64\UE4Editor\Development\HackNSlashGame\UE4Editor-HackNSlashGame.lib"

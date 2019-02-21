@@ -1,0 +1,3 @@
+D:\Game Productions\HackNSlashGame\HackNSlashGame\Source\HackNSlashGame\HackNSlashGame.Build.cs
+D:\Game Productions\HackNSlashGame\HackNSlashGame\Source\HackNSlashGame.Target.cs
+D:\Game Productions\HackNSlashGame\HackNSlashGame\Source\HackNSlashGameEditor.Target.cs
