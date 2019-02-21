@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodeHackNSlashGame_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/HackNSlashGame",
 				PKG_CompiledIn | 0x00000000,
-				0x5724FD27,
-				0x0A187597,
+				0xAC016A2F,
+				0xAE895E72,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};

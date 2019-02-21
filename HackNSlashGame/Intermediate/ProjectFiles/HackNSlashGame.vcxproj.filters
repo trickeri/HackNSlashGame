@@ -54,4 +54,28 @@
       <Filter>Source\HackNSlashGame</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\HackNSlashGame\Public">
+      <UniqueIdentifier>{d4c2c144-26c7-4f37-b283-fd1ed58a6968}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\HackNSlashGame\Public\General">
+      <UniqueIdentifier>{aa3d3c66-f902-49b0-9531-227f9648f1bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\HackNSlashGame\Private">
+      <UniqueIdentifier>{353ac7eb-5f45-4399-9efb-9c78a27de58d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\HackNSlashGame\Private\General">
+      <UniqueIdentifier>{46b33178-ac79-46c2-b19f-9d1ede4603db}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\HackNSlashGame\Public\General\HackNSlashPS_C.h">
+      <Filter>Source\HackNSlashGame\Public\General</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\HackNSlashGame\Private\General\HackNSlashPS_C.cpp">
+      <Filter>Source\HackNSlashGame\Private\General</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
