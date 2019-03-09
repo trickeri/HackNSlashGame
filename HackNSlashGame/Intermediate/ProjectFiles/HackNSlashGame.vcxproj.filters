@@ -41,12 +41,6 @@
     <ClInclude Include="..\..\Source\HackNSlashGame\HackNSlashGame.h">
       <Filter>Source\HackNSlashGame</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\HackNSlashGame\HackNSlashGameCharacter.cpp">
-      <Filter>Source\HackNSlashGame</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\HackNSlashGame\HackNSlashGameCharacter.h">
-      <Filter>Source\HackNSlashGame</Filter>
-    </ClInclude>
     <ClCompile Include="..\..\Source\HackNSlashGame\HackNSlashGameGameMode.cpp">
       <Filter>Source\HackNSlashGame</Filter>
     </ClCompile>
@@ -67,14 +61,50 @@
     <Filter Include="Source\HackNSlashGame\Private\General">
       <UniqueIdentifier>{46b33178-ac79-46c2-b19f-9d1ede4603db}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source\HackNSlashGame\Public\Player">
+      <UniqueIdentifier>{f48a1ad6-eb79-4591-a6bd-99740851b9ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\HackNSlashGame\Private\Player">
+      <UniqueIdentifier>{33f2950a-75d1-4018-bf6d-b8a0ee65864b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\HackNSlashGame\Public\Enemies">
+      <UniqueIdentifier>{610a52db-80df-4f5a-aeda-8e208e5ca560}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\HackNSlashGame\Private\Enemies">
+      <UniqueIdentifier>{8276f86d-a890-4fe0-96fa-f5cf640f78b3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\Source\HackNSlashGame\Public\General\HackNSlashPS_C.h">
       <Filter>Source\HackNSlashGame\Public\General</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\HackNSlashGame\Public\Player\HackNSlashPC_C.h">
+      <Filter>Source\HackNSlashGame\Public\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HackNSlashGame\HackNSlashGameCharacter.h">
+      <Filter>Source\HackNSlashGame\Public\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HackNSlashGame\Public\Enemies\MinionCharacter1_C.h">
+      <Filter>Source\HackNSlashGame\Public\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HackNSlashGame\Public\General\HackNSlashGS_C.h">
+      <Filter>Source\HackNSlashGame\Public\General</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Source\HackNSlashGame\Private\General\HackNSlashPS_C.cpp">
+      <Filter>Source\HackNSlashGame\Private\General</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HackNSlashGame\Private\Player\HackNSlashPC_C.cpp">
+      <Filter>Source\HackNSlashGame\Private\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HackNSlashGame\HackNSlashGameCharacter.cpp">
+      <Filter>Source\HackNSlashGame\Private\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HackNSlashGame\Private\Enemies\MinionCharacter1_C.cpp">
+      <Filter>Source\HackNSlashGame\Private\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HackNSlashGame\Private\General\HackNSlashGS_C.cpp">
       <Filter>Source\HackNSlashGame\Private\General</Filter>
     </ClCompile>
   </ItemGroup>

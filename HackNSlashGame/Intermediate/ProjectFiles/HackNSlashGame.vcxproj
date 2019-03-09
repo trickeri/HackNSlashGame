@@ -787,8 +787,14 @@
     <NMakeOutput>..\..\Binaries\HTML5\HackNSlashGame-HTML5-Shipping.js</NMakeOutput>
   </PropertyGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Source\HackNSlashGame\Private\Enemies\MinionCharacter1_C.cpp" />
+    <ClCompile Include="..\..\Source\HackNSlashGame\Private\General\HackNSlashGS_C.cpp" />
     <ClCompile Include="..\..\Source\HackNSlashGame\Private\General\HackNSlashPS_C.cpp" />
+    <ClCompile Include="..\..\Source\HackNSlashGame\Private\Player\HackNSlashPC_C.cpp" />
+    <ClInclude Include="..\..\Source\HackNSlashGame\Public\Enemies\MinionCharacter1_C.h" />
+    <ClInclude Include="..\..\Source\HackNSlashGame\Public\General\HackNSlashGS_C.h" />
     <ClInclude Include="..\..\Source\HackNSlashGame\Public\General\HackNSlashPS_C.h" />
+    <ClInclude Include="..\..\Source\HackNSlashGame\Public\Player\HackNSlashPC_C.h" />
     <None Include="..\..\HackNSlashGame.uproject" />
     <None Include="..\..\Source\HackNSlashGame.Target.cs" />
     <None Include="..\..\Source\HackNSlashGameEditor.Target.cs" />
