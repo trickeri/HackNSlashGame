@@ -1,16 +1,30 @@
-﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Game Productions\HackNSlashGame).
+﻿  Performing full C++ include scan (building a new target)
+  Using 'git status' to determine working set for adaptive non-unity build (D:\Game Productions\UE4 Projects\HackNSlashGame).
   Creating makefile for HackNSlashGameEditor (no existing makefile)
-  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\WDExpress\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Deleting old hot reload file: "D:\Game Productions\HackNSlashGame\HackNSlashGame\Binaries\Win64\UE4Editor-HackNSlashGame-4943.dll".
-  Deleting old hot reload file: "D:\Game Productions\HackNSlashGame\HackNSlashGame\Binaries\Win64\UE4Editor-HackNSlashGame-4943.pdb".
-  Deleting old hot reload file: "D:\Game Productions\HackNSlashGame\HackNSlashGame\Binaries\Win64\UE4Editor-HackNSlashGame-8475.dll".
-  Deleting old hot reload file: "D:\Game Productions\HackNSlashGame\HackNSlashGame\Binaries\Win64\UE4Editor-HackNSlashGame-8475.pdb".
-  Deleting old hot reload file: "D:\Game Productions\HackNSlashGame\HackNSlashGame\Binaries\Win64\UE4Editor-HackNSlashGame-934.dll".
-  Deleting old hot reload file: "D:\Game Productions\HackNSlashGame\HackNSlashGame\Binaries\Win64\UE4Editor-HackNSlashGame-934.pdb".
-  Building 2 actions with 16 processes...
-    [1/2] UE4Editor-HackNSlashGame.lib
-       Creating library D:\Game Productions\HackNSlashGame\HackNSlashGame\Intermediate\Build\Win64\UE4Editor\Development\HackNSlashGame\UE4Editor-HackNSlashGame.lib and object D:\Game Productions\HackNSlashGame\HackNSlashGame\Intermediate\Build\Win64\UE4Editor\Development\HackNSlashGame\UE4Editor-HackNSlashGame.exp
-    [2/2] UE4Editor-HackNSlashGame.dll
-       Creating library D:\Game Productions\HackNSlashGame\HackNSlashGame\Intermediate\Build\Win64\UE4Editor\Development\HackNSlashGame\UE4Editor-HackNSlashGame.suppressed.lib and object D:\Game Productions\HackNSlashGame\HackNSlashGame\Intermediate\Build\Win64\UE4Editor\Development\HackNSlashGame\UE4Editor-HackNSlashGame.suppressed.exp
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Parsing headers for HackNSlashGameEditor
+    Running UnrealHeaderTool "D:\Game Productions\UE4 Projects\HackNSlashGame\HackNSlashGame\HackNSlashGame.uproject" "D:\Game Productions\UE4 Projects\HackNSlashGame\HackNSlashGame\Intermediate\Build\Win64\HackNSlashGameEditor\Development\HackNSlashGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for HackNSlashGameEditor in 13.4356459 seconds
+  Building 18 actions with 8 processes...
+    [1/18] PCLaunch.rc
+    [2/18] SharedPCH.Engine.cpp
+    [3/18] HackNSlashPS_C.cpp
+    [4/18] HackNSlashGS_C.cpp
+    [5/18] HackNSlashGame.init.gen.cpp
+    [6/18] HackNSlashPS_C.gen.cpp
+    [7/18] HackNSlashPC_C.gen.cpp
+    [8/18] HackNSlashGameGameMode.gen.cpp
+    [9/18] HackNSlashGS_C.gen.cpp
+    [10/18] HackNSlashGameCharacter.gen.cpp
+    [11/18] MinionCharacter1_C.cpp
+    [12/18] HackNSlashGame.cpp
+    [13/18] HackNSlashPC_C.cpp
+    [14/18] HackNSlashGameGameMode.cpp
+    [15/18] MinionCharacter1_C.gen.cpp
+    [16/18] HackNSlashGameCharacter.cpp
+    [17/18] UE4Editor-HackNSlashGame.lib
+       Creating library D:\Game Productions\UE4 Projects\HackNSlashGame\HackNSlashGame\Intermediate\Build\Win64\UE4Editor\Development\HackNSlashGame\UE4Editor-HackNSlashGame.lib and object D:\Game Productions\UE4 Projects\HackNSlashGame\HackNSlashGame\Intermediate\Build\Win64\UE4Editor\Development\HackNSlashGame\UE4Editor-HackNSlashGame.exp
+    [18/18] UE4Editor-HackNSlashGame.dll
+       Creating library D:\Game Productions\UE4 Projects\HackNSlashGame\HackNSlashGame\Intermediate\Build\Win64\UE4Editor\Development\HackNSlashGame\UE4Editor-HackNSlashGame.suppressed.lib and object D:\Game Productions\UE4 Projects\HackNSlashGame\HackNSlashGame\Intermediate\Build\Win64\UE4Editor\Development\HackNSlashGame\UE4Editor-HackNSlashGame.suppressed.exp
   Deploying HackNSlashGameEditor Win64 Development...
-  Total build time: 8.95 seconds (Parallel executor: 1.66 seconds)
+  Total build time: 115.08 seconds (Parallel executor: 45.23 seconds)

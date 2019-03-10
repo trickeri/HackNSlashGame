@@ -93,8 +93,10 @@ Saved/*
 
 
 # Compiled source files for the engine to use
-Intermediate/*
-Plugins/*/Intermediate/*
+*/Intermediate/
+*/Binaries/
+*/Saved/
+*/Build/
 
 
 # Cache files for the editor to use
@@ -102,5 +104,5 @@ DerivedDataCache/*
 
 
 # Paragon Assets
-# HackNSlashGame/Content/ParagonMinions
-HackNSlashGame/Content/ParagonCountess
+# */Content/ParagonMinions
+*/Content/ParagonCountess
