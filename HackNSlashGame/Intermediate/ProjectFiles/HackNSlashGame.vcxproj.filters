@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\HackNSlashGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{A85EC51F-D9D9-4F84-ACFF-19D0BEE8F1B7}</UniqueIdentifier>
+      <UniqueIdentifier>{DB1F9A35-1775-46B2-9169-EC1DF6EDDA17}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\HackNSlashGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{DF7C8F4C-7CC9-4A0A-AE15-F628CB3D75ED}</UniqueIdentifier>
+      <UniqueIdentifier>{39A598C7-D621-4EF3-B8F4-8877864C747C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\HackNSlashGame">
-      <UniqueIdentifier>{1571647A-1990-41B2-B015-A952134A7523}</UniqueIdentifier>
+      <UniqueIdentifier>{989F0AE2-8E53-4AAB-89B3-D93C30DB2539}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\HackNSlashGame\HackNSlashGame.Build.cs">
       <Filter>Source\HackNSlashGame</Filter>
@@ -54,16 +54,16 @@
       <Filter>Source\HackNSlashGame</Filter>
     </ClInclude>
     <Filter Include="Source\HackNSlashGame\Private">
-      <UniqueIdentifier>{C3951BE6-57FF-4C40-BCD9-8D3294FB1BE9}</UniqueIdentifier>
+      <UniqueIdentifier>{4A2690DD-152B-4EFC-A784-F5D6AC538C2E}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source\HackNSlashGame\Private\Enemies">
-      <UniqueIdentifier>{851DE9CE-886B-4171-8C40-49CFFA8C9965}</UniqueIdentifier>
+      <UniqueIdentifier>{6A0D7D14-4920-4CE3-BC21-B039E20CE279}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\HackNSlashGame\Private\Enemies\MinionCharacter1_C.cpp">
       <Filter>Source\HackNSlashGame\Private\Enemies</Filter>
     </ClCompile>
     <Filter Include="Source\HackNSlashGame\Private\General">
-      <UniqueIdentifier>{DF6938A4-9023-471B-A3CC-0B585086E7DF}</UniqueIdentifier>
+      <UniqueIdentifier>{67BE68B2-0C27-4CF2-8F53-3700A64639BB}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\HackNSlashGame\Private\General\HackNSlashGS_C.cpp">
       <Filter>Source\HackNSlashGame\Private\General</Filter>
@@ -72,22 +72,22 @@
       <Filter>Source\HackNSlashGame\Private\General</Filter>
     </ClCompile>
     <Filter Include="Source\HackNSlashGame\Private\Player">
-      <UniqueIdentifier>{96287BFE-A33B-4CAC-9EF6-14D0A7DAC625}</UniqueIdentifier>
+      <UniqueIdentifier>{AE21E849-DA40-4B21-8696-F7E51DDCDE70}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\HackNSlashGame\Private\Player\HackNSlashPC_C.cpp">
       <Filter>Source\HackNSlashGame\Private\Player</Filter>
     </ClCompile>
     <Filter Include="Source\HackNSlashGame\Public">
-      <UniqueIdentifier>{BE1C7CE2-BDD2-41C0-A338-304CDB93D1B8}</UniqueIdentifier>
+      <UniqueIdentifier>{E0982A5E-B228-4C0E-8D56-C18EA6DDE90D}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source\HackNSlashGame\Public\Enemies">
-      <UniqueIdentifier>{62280D0B-41B3-4919-99AA-E32E42F6A2CA}</UniqueIdentifier>
+      <UniqueIdentifier>{2F4D4D0D-12B4-4E4E-8087-DD6F5295FC82}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\HackNSlashGame\Public\Enemies\MinionCharacter1_C.h">
       <Filter>Source\HackNSlashGame\Public\Enemies</Filter>
     </ClInclude>
     <Filter Include="Source\HackNSlashGame\Public\General">
-      <UniqueIdentifier>{9A95B287-A45B-42E5-A58D-070A9333DE7D}</UniqueIdentifier>
+      <UniqueIdentifier>{E05BF8CB-E019-4FA9-9A36-7CD7C751ED85}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\HackNSlashGame\Public\General\HackNSlashGS_C.h">
       <Filter>Source\HackNSlashGame\Public\General</Filter>
@@ -96,7 +96,7 @@
       <Filter>Source\HackNSlashGame\Public\General</Filter>
     </ClInclude>
     <Filter Include="Source\HackNSlashGame\Public\Player">
-      <UniqueIdentifier>{FFC02268-C6FD-40A6-9BF8-CE0B9E2DCA9A}</UniqueIdentifier>
+      <UniqueIdentifier>{D26F8F3B-EB19-4C8B-BDEE-A7B833AC03AF}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\HackNSlashGame\Public\Player\HackNSlashPC_C.h">
       <Filter>Source\HackNSlashGame\Public\Player</Filter>
